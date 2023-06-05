@@ -1,0 +1,30 @@
+.heading{
+    font-size: 24px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px orange;
+}
+.design{
+    font-size: 16px;
+    color: yellow;
+
+}
+.copy_footer{
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    background-color: pink;
+    color:purple ;
+    line-height: 3;
+}
+canvas{
+    border: 6px dashed orangered;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px cyan;
+}
+    
+
+
+body{
+    background-color:lavender;
+}
